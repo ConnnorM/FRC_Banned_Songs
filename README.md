@@ -9,3 +9,5 @@ https://www.pdf.to/
 
 ### Convert CSV to Spotify Playlist
 http://nickwanders.com/projects/ng-spotify-importer/
+
+# Need to fix song titles first? drop if something is null?
